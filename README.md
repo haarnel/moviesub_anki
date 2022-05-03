@@ -1,6 +1,6 @@
 
 
-Convert video (movie, youtube video and etc) files with subtitles into [Anki](https://apps.ankiweb.net/) deck. For now, it only works with subtitles in SubRip format subtitle format.
+Convert video (movie, youtube video and etc) files with subtitles into [Anki](https://apps.ankiweb.net/) deck. For now, it only works with subtitles in SubRip format.
 
 Demo: [Watch](https://player.vimeo.com/video/559606758)
 
