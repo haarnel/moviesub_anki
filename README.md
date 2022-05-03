@@ -20,7 +20,8 @@ pip install -r requirements.txt
 
 ### Usage
 
+```shell
 python app.py -v <video.mkv> -s <subtitles.srt> -d <deck_name>
-# or (video1.mkv -> video1.srt, video2.mkv -> video2.srt)
+# щк when you have a folder with video files (tv show and so on). Folder structure: (video1.mkv -> video1.srt, video2.mkv -> video2.srt)
 python app.py -m <path_to_directory> -d <deck_name>
 ```
