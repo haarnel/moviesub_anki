@@ -1,0 +1,22 @@
+.card {
+    font-family: arial;
+    font-size: 20px;
+    text-align: center;
+    color: #D8D8D8;
+    background-color: #3D313D;
+   }
+   
+   input {
+     color: #D8D8D8;
+     font-size: 1.2rem;
+     margin: 0 auto;
+     padding: 0.5rem 0.5rem;
+     border-radius: 5px;
+     background-color: #1E1E1E;
+     border: none;
+     width: 90%;
+   }
+   
+   input:focus {
+    outline-width: 0;
+}

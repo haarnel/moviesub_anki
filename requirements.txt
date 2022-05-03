@@ -1,0 +1,9 @@
+cached-property==1.5.2
+chardet==4.0.0
+frozendict==1.2
+fuzzywuzzy==0.18.0
+genanki==0.10.1
+pysrt==1.1.2
+pystache==0.5.4
+python-Levenshtein==0.12.1
+PyYAML==5.4.1
